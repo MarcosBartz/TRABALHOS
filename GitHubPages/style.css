@@ -1,0 +1,28 @@
+body{
+    box-shadow: 0px 0px 12px 0px rgba(0,0,0,0.75);
+}
+
+header h1{
+    color: white;
+    background-color: #306BAC;
+    text-shadow: 0px 0px 8px #000000;
+}
+
+footer{
+    background-color: #141B41;
+}
+
+nav{
+    align-items: center;
+}
+
+section{
+    box-shadow: 0px 0px 12px 0px rgba(0,0,0,0.75);
+    border-radius: 2px;
+    margin: 10px;
+}
+
+.carrosel{
+    width: 25em;
+    margin: auto;
+}
